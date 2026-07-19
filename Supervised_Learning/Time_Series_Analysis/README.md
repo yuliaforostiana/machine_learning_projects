@@ -80,7 +80,7 @@ Two strategies were considered for forecasting all 50 items × 10 stores:
 - **ML utilities:** `scikit-learn`, `scipy`
 
 ## 📁 Repository Structure
-├── time_series_analysis.ipynb   # Full analysis and modeling notebook
+├── `store_time_series_analysis.ipynb`   # Full analysis and modeling notebook
 
 └── README.md
 
