@@ -62,7 +62,7 @@ For each method: extracted the fitted coefficients, generated predictions, compu
 
 ```bash
 pip install pandas numpy matplotlib scikit-learn scipy
-jupyter notebook medical_charges_regression.ipynb
+jupyter notebook medical_charges_prediction.ipynb
 ```
 
 > Note: the dataset (`medical-charges.csv`) is not included in this repository.
