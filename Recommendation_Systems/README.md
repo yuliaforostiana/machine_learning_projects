@@ -74,7 +74,7 @@ Goodbooks-10k has no built-in genre labels, highly sparse user-item interactions
 
 ## 📁 Repository Structure
 
-├── recsys_goodbooks.ipynb   # Full feature engineering, model implementations, and evaluation notebook
+├── book_recommendation.ipynb   # Full feature engineering, model implementations, and evaluation notebook
 
 └── README.md
 
@@ -82,7 +82,7 @@ Goodbooks-10k has no built-in genre labels, highly sparse user-item interactions
 
 ```bash
 pip install pandas numpy torch
-jupyter notebook recsys_goodbooks.ipynb
+jupyter notebook book_recommendation.ipynb
 ```
 
 Data can be loaded three ways, in order of preference:
