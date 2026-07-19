@@ -71,7 +71,7 @@ Built and compared five linear regression variants of increasing rigor:
 
 ```bash
 pip install pandas numpy matplotlib seaborn plotly scikit-learn statsmodels scipy
-jupyter notebook car_price_regression.ipynb
+jupyter notebook car_price_prediction.ipynb
 ```
 
 > Note: the dataset (`cars.csv`) is not included in this repository.
